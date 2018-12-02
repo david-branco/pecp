@@ -1,0 +1,159 @@
+#titulodash {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 130px;
+}
+.medicamentos {
+	padding-top: 20px;
+	width: 232px;
+	float: left;
+	padding-left: 120px;
+}
+#medicamentostitulo {
+	position: relative;
+	color: white;
+	top: -21px;
+	text-align: center;
+}
+#tmedicamentos {
+	width: 232px;
+	top: -16px;
+	position: relative;
+}
+.consultas {
+	padding-top: 20px;
+	width: 232px;
+	padding-left: 20px;
+	float: left;
+}
+#consultastitulo {
+	position: relative;
+	color: white;
+	top: -21px;
+	text-align: center;
+}
+#tconsultas {
+	width: 232px;
+	top: -16px;
+	position: relative;
+}
+.exames {
+	padding-top: 20px;
+	width: 232px;
+	padding-left: 20px;
+	float: left;
+}
+#examestitulo {
+	position: relative;
+	color: white;
+	top: -21px;
+	text-align: center;
+}
+#texames {
+	width: 232px;
+	top: -16px;
+	position: relative;
+}
+.vacinas {
+	padding-top: 20px;
+	width: 232px;
+	padding-left: 20px;
+	float: left;
+}
+#vacinastitulo {
+	position: relative;
+	color: white;
+	top: -21px;
+	text-align: center;
+}
+#tvacinas {
+	width: 232px;
+	top: -16px;
+	position: relative;
+}
+.data {
+	font-size: 10px;
+	width: 50px;
+	text-align: left;
+}
+.nome {
+	font-size: 12px;
+	text-align: center;
+}
+.details {
+	text-align: right;
+}
+.details img {
+	width: 15px;
+	height: 15px;
+}
+
+/* MENU*/
+li {	
+	font-family:arial; 
+	font-size:11px;
+}
+.clear {
+	clear:both
+} 
+body {
+  width: 100%; /* o body deverá ocupar toda a largura do browser */
+}
+#nav {
+    margin:0 auto; 
+    padding:0; 
+    width: 800px;
+    list-style:none;
+}   
+#nav li {
+    float:left; 
+    display:block; 
+    width:130px; 
+    background:#b50133; 
+    position:relative;
+    z-index:500;
+    color: white;
+    margin:0 1px;
+}
+#nav li a {
+	display:block; 
+    padding:8px 5px 0 5px; 
+    font-weight:700;  
+    height:23px; 
+    color:white;
+    text-decoration:none; 
+    text-align:center; 
+} 
+#nav li a:hover {
+    color:white;
+}
+#nav a.selected {
+    color:white;
+}
+#nav ul {
+	position:absolute; 
+    left:0; 
+    color: white;
+    display:none; 
+    margin:0 0 0 -1px; 
+    padding:0; 
+    list-style:none;
+}         
+#nav ul li {
+	width:130px; 
+	color:white;
+	float:left; 
+    border-top:1px solid #fff;
+}
+#nav ul a {
+    display:block;  
+    height:15px;
+    padding: 8px 5px; 
+    color:white;
+}
+#nav ul a:hover {
+	text-decoration:underline;  
+}
+*html #nav ul {
+    margin:0 0 0 -2px;
+}

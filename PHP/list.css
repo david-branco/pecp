@@ -1,0 +1,71 @@
+#title {
+	font-size: 40px;
+	padding-top: 60px;
+	margin: 0 auto;
+	width: 300px;
+}
+#table {
+	padding-top: 30px;
+}
+#tb {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+.topo {
+	background: #f1f1f1;
+	border: collapse;
+	font-family: 'Tahoma';
+	text-align: center;
+	font-size: 14px;
+	border: 1px solid green;
+}
+.res {
+	font-family: 'Tahoma';
+	font-size: 12px;
+	text-align: center;
+}
+#local {
+	width: 200px;
+	border: 1px solid green;
+}
+#motivo {
+	border: 1px solid green;
+	width: 100px;
+}
+#urgencia {
+	border: 1px solid green;
+	width: 100px;
+}
+#resumo {
+	border: 1px solid green;
+	width: 300px;
+}
+#preco {
+	border: 1px solid green;
+	width: 100px;
+}
+#nome {
+	border: 1px solid green;
+	width: 200px;
+}
+#dose {
+	border: 1px solid green;
+	width: 100px;
+}
+#periodicidade {
+	border: 1px solid green;
+	width: 100px;
+}
+#quantidade {
+	border: 1px solid green;
+	width: 100px;
+}
+#restantes {
+	border: 1px solid green;
+	width: 100px;
+}
+#data {
+	border: 1px solid green;
+	width: 100px;
+}

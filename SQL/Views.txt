@@ -1,0 +1,15 @@
+CREATE VIEW users_consultas
+AS SELECT * FROM Users, User_Eps, Episodios, Consultas
+WHERE user_id = user_id_Users AND eps_id_Episodios = eps_id AND consultas_id_Consultas = consultas_id
+
+CREATE VIEW users_analises
+AS SELECT * FROM Users, User_Eps, Episodios, Analises
+WHERE user_id = user_id_Users AND eps_id_Episodios = eps_id AND analises_id_Analises = analises_id
+
+CREATE VIEW users_vacinas
+AS SELECT * FROM Users, User_Eps, Episodios, Vacinas
+WHERE user_id = user_id_Users AND eps_id_Episodios = eps_id AND vacinas_id_Vacinas = vacinas_id
+
+CREATE VIEW users_exames
+AS SELECT * FROM Users, User_Eps, Episodios, Exames
+WHERE user_id = user_id_Users AND eps_id_Episodios = eps_id AND exames_id_Exames = exames_id
