@@ -21,17 +21,6 @@ The system has among its main functionalities:
 - Login System for Administrators that allows the system management;
 - Among other features.
 
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/db.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/formularioDATAC.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/formularioNOVOC.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/inserirUser.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/listarconsultas.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/listarmedicamentos.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/login.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/loginC.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/menuC.png
-/home/db/Desktop/Git/Git/Personal Electronic Clinical Process/img/stats.png
-
 ---
 
 
